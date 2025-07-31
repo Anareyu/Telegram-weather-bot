@@ -3,10 +3,10 @@ from telebot import types
 import requests
 import json
 
-TOKEN = '6407237705:AAGqYRxlRR1zSf5oDSBENlNL2pgFiqXCzUs'
+TOKEN = *Long sequence which you can get from father bot in telegram*
 bot = telebot.TeleBot(TOKEN)
 
-API = '3facb167b165a1a5c30ffdc4acec9858'
+API = *Api from accuweather.com*
 
 
 @bot.message_handler(commands=['start'])
