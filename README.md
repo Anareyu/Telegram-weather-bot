@@ -1,5 +1,5 @@
 # Telegram-weather-bot
-Weather bot. There is nothing unclear.
+Weather-bot shows you temperature, humidity, cloud cover and wind speed
 
 # Test
 If you want to test this bot I must run my code with my token and API. Otherwise, bot will not respond
